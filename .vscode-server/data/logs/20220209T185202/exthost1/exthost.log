@@ -1,0 +1,27 @@
+[2022-02-09 18:52:03.365] [exthost] [info] Extension host with pid 2453 started
+[2022-02-09 18:52:03.374] [exthost] [info] Lock '/home/pinakiguha/.vscode-server/data/User/workspaceStorage/69867fc34fa2fb105ff6416e999b29ed/vscode.lock': Lock acquired.
+[2022-02-09 18:52:03.393] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-09 18:52:03.396] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-09 18:52:03.404] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-09 18:52:03.413] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-09 18:52:03.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-09 18:52:03.424] [exthost] [info] Eager extensions activated
+[2022-02-09 18:52:08.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-02-09 19:23:07.065] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1585
+[2022-02-09 19:42:56.017] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:43:01.062] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:43:06.114] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:43:11.159] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:43:16.206] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:43:21.255] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:43:26.298] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:43:31.344] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:43:36.398] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:43:41.451] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:43:46.502] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:43:51.548] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:43:56.601] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:44:01.645] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:44:06.691] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:44:11.735] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
+[2022-02-09 19:44:16.783] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1588
