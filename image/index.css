@@ -1,0 +1,57 @@
+body{ margin:auto;
+    width:1024px;
+    padding:10px;
+    background-colour: blanchedalmond;
+    background-image: url(https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/10/Black-Paper.jpg);
+    background-repeat: yes-repeat;
+    background-position: center;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;}
+    p{
+        color: wheat;
+        text-align: justify;
+    
+    }
+    h4{
+        text-align: right;
+        color:brown;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+            
+    }
+    
+    h1{ 
+        text-align: center;
+        color:maroon ;
+        text-decoration-line: overline underline;
+        font-size:50px;
+    }
+    h2{
+        text-align: center;
+        color:rgb(90, 10, 10) ;
+        text-decoration-style: dotted;
+        text-decoration-line: underline;
+        font-size:35px;
+        background-image: url("https://cdn.pixabay.com/photo/2015/12/19/02/12/texture-1099399__480.jpg");
+        background-size:contain;
+    }
+    .img1{
+        border-radius: 10px;
+        min-height: aut0;
+        max-block-size: 200px;
+        display: inline-flexbox;
+    }
+    .img2{
+        border-radius: 10px;
+        min-height: aut0;
+        display: inline-flexbox;
+    }
+    .img3{
+        border-radius: 10px;
+        min-height: aut0;
+        max-block-size: 230x;
+        display: inline-flexbox;
+    }
+    .img4{
+        border-radius: 10px;
+        min-height: aut0;
+        display: inline-flexbox;
